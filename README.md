@@ -20,7 +20,7 @@ To run these files locally, you need to install the following python packages:
 pandas
 datetime
 
-The following files that were provided in the exercise must be present in a 'data' directory within the directory of the *.py files.
+The following files that were provided in the exercise must be present in a 'data' directory within the directory of the *.py files. (Note that these files are not included in this repository)
 * cons.csv
 * cons_email.csv
 * cons_email_chapter_subscription.csv
